@@ -12,7 +12,7 @@ I enjoy building **lab topologies and simulations** that reflect real enterprise
 
 ---
 
-## 🟦 My Network Arsenal
+## 👜 My Network Arsenal
 
 | Area | Details |
 |------|---------|
@@ -56,8 +56,6 @@ Focused on real-world networking scenarios to demonstrate practical skills in ro
 ## 🌐 Connect With Me
 - [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" style="max-width: 100%; height: auto; max-height: 40px;">](https://www.linkedin.com/in/malek-alhawi-0210181ba/)
   
-- 📂 [GitHub Projects](https://github.com/MalekAlhawi)
-
 ---
 
 *This profile highlights my certifications, networking skills, and hands-on lab experience, demonstrating readiness to grow as a professional network engineer.*
