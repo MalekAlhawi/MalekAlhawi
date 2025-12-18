@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=75D1FF&center=true&vCenter=true&width=440&lines=Aspiring+Network+Engineer" />
 </p>
 
-# 👋 Hey there, I'm Malek Alhawi
+# 👋 Hey, I'm Malek!
 
 ---
 
