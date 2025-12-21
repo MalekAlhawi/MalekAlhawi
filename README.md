@@ -43,7 +43,12 @@ I’m passionate about continuous learning and preparing for enterprise-level ne
 **Enterprise Network Simulation** – Designed and implemented a multi-site enterprise network lab with VLAN segmentation, routing (OSPF/EIGRP), EtherChannel, and HSRP for redundancy and high availability. 
 Focused on real-world networking scenarios to demonstrate practical skills in routing, switching, and network resiliency.
 
-🔗 [View the project on GitHub](https://github.com/MalekAlhawi/Three-Tier-Enterprise-Network-Design)
+🔗 [Enterprise Network](https://github.com/MalekAlhawi/Three-Tier-Enterprise-Network-Design)
+
+**Site-to-Site IPsec VPN** – Built a secure IPsec VPN between two remote networks over an untrusted ISP.
+Configured IKE, crypto maps, and ACL-based traffic encryption to ensure secure communication between LANs.
+
+🔗 [IPsec VPN](https://github.com/MalekAlhawi/Site-to-Site-IPsec-VPN)
 
 ---
 
