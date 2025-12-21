@@ -54,7 +54,7 @@ Focused on real-world networking scenarios to demonstrate practical skills in ro
 ---
 
 ## 🌐 Connect With Me
-- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" style="max-width: 100%; height: auto; max-height: 40px;">](https://www.linkedin.com/in/malek-alhawi-0210181ba/)
+ [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" style="max-width: 100%; height: auto; max-height: 40px;">](https://www.linkedin.com/in/malek-alhawi-0210181ba/)
   
 ---
 
