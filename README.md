@@ -50,11 +50,20 @@ Configured IKE, crypto maps, and ACL-based traffic encryption to ensure secure c
 
 🔗 [IPsec VPN](https://github.com/MalekAlhawi/Site-to-Site-IPsec-VPN)
 
+**BGP Network** – Set up BGP between multiple autonomous systems to learn inter-domain routing. Configured neighbor relationships, route advertisement, and route filtering to control traffic between ASes.
+
+🔗 [BGP Network](https://github.com/MalekAlhawi/BGP-Configuration-Lab)
+
+**OSPF Multi-Area Network** – Implemented multi-area OSPF to optimize routing within and between areas. Configured ABRs, route summarization, and verified LSAs to ensure efficient intra-domain routing.
+
+🔗 [OSPF Network](https://github.com/MalekAlhawi/Multi-Area-OSPF)
+
+
 ---
 
 ## 🧠 TryHackMe Badge 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MalekAlhawi.png)](https://tryhackme.com/p/MalekAlhawi)  
-> Small supporting badge to show hands-on practice and lab work; not the main focus of my profile but wanted to showcase for fun :)
+> Small supporting badge to show hands-on practice and lab work; not the main focus of my profile, but wanted to showcase for fun :)
 
 ---
 
